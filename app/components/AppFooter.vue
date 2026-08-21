@@ -67,7 +67,7 @@ const columns = [
           © {{ new Date().getFullYear() }} Lolia FRP • "新一代" 内网穿透提供商
         </p>
         <p class="text-muted text-xs">
-          Lolia Team & 安锐普世（北京）科技有限公司 & LOLINYA TECHNOLOGY LTD
+          Lolia Team & 安锐普世（北京）科技有限公司 & NYANLOLI LTD
         </p>
         <div class="flex gap-3 items-center text-xs text-muted">
           <a
